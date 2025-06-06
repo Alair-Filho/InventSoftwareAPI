@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.vspscc
+TestResults/
+*.pdb
+*.exe
+*.dll
+*.dbmdl
